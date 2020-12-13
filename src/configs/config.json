@@ -1,0 +1,5 @@
+{
+  "apiUrl": "http://www.omdbapi.com/",
+  "apikey": "fe995d10",
+  "perPage": 20
+}
